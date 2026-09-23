@@ -33,8 +33,8 @@ I am a passionate Full Stack Developer who loves bridging the gap between elegan
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gybra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gybra&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Gybra&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Gybra&layout=compact&theme=tokyonight" />
 </p>
 
 ---
